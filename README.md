@@ -38,7 +38,7 @@ correspondem aos diferentes níveis de cinza).
   <img src="https://github.com/Minnael/TRATAMENTO-DE-IMAGENS/assets/31865359/0446f64b-79f8-4565-aa07-802ad5439aaf" alt="Descrição da Imagem" style="width:65%; height:65%;">
 </div>
 
-## <div align="center" styles="font-size:50px;" >Problema 01</div>
+## <div align="center" styles="font-size:50px;" >Problema 01: Trabalhando com Fork()</div>
 Elabore um programa, escrito em C ou C++, em um sistema operacional com suporte a POSIX
 (Linux, por exemplo), de tal modo que possam ser usados os compiladores GCC ou G++, para:
 1) Criar um processo pai que possa fazer a abertura de uma imagem em nível de cinza
@@ -68,7 +68,7 @@ deve ser salvo como uma imagem.
   <img src="https://github.com/Minnael/TRATAMENTO-DE-IMAGENS/assets/31865359/def19e47-4485-497b-9775-bd18a8b92ca4" style="width:65%; height:65%;">
 </div>
 
-## <div align="center" styles="font-size:50px;" >Problema 02</div>
+## <div align="center" styles="font-size:50px;" >Problema 02: Trabalhando com Threads</div>
 Elabore um programa, escrito em C ou C++, em um sistema operacional com suporte a POSIX
 (Linux, por exemplo), de tal modo que possam ser usados os compiladores GCC ou G++, para:
 1) Criar um processo que lance uma thread mãe para fazer a abertura de uma imagem em

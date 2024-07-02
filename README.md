@@ -26,7 +26,7 @@ pixel de interesse da imagem e também em seus pixels vizinhos. Há diversos ope
 </div>
 
 <div align="center" width=30%>
-  <img src="https://github.com/Minnael/TRATAMENTO-DE-IMAGENS/assets/31865359/d843ddd1-62b5-4bb9-be62-479874cf45fa" alt="Descrição da Imagem" >
+  <img src="https://github.com/Minnael/TRATAMENTO-DE-IMAGENS/assets/31865359/d843ddd1-62b5-4bb9-be62-479874cf45fa" alt="Descrição da Imagem" style="width:322px; height:99px;" >
 </div>
 
 

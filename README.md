@@ -40,7 +40,7 @@ onde 0 é atribuído ao nível preto e 255 ao nível branco (os valores inteiros
 correspondem aos diferentes níveis de cinza).
 
 <div align="center">
-  <img src="https://github.com/Minnael/TRATAMENTO-DE-IMAGENS/assets/31865359/0446f64b-79f8-4565-aa07-802ad5439aaf" alt="Descrição da Imagem" style="width:75%; height:75%;">
+  <img src="https://github.com/Minnael/TRATAMENTO-DE-IMAGENS/assets/31865359/0446f64b-79f8-4565-aa07-802ad5439aaf" alt="Descrição da Imagem" style="width:65%; height:65%;">
 </div>
 
 Problema 01:

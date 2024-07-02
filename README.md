@@ -84,4 +84,9 @@ thread mãe deverá ficar suspensa através do comando join();
 Rx e Ry para gerar a matriz com as informações das bordas (matriz R). Esse resultado
 deve ser salvo como uma imagem.
 
+<div align="center">
+  <img src="https://github.com/Minnael/TRATAMENTO-DE-IMAGENS/assets/31865359/b5f1a341-7ec0-46c5-8988-760c336ba00f" style="width:65%; height:65%;">
+</div>
+
+
 

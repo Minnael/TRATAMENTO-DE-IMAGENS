@@ -63,6 +63,7 @@ em estado de espera até que este novo filho finalize sua tarefa.
 4. Por fim, após a execução dos filhos, o processo pai utiliza as informações das matrizes
 Rx e Ry para gerar a matriz com as informações das bordas (matriz R). Esse resultado
 deve ser salvo como uma imagem.
+
 <div align="center">
   <img src="https://github.com/Minnael/TRATAMENTO-DE-IMAGENS/assets/31865359/def19e47-4485-497b-9775-bd18a8b92ca4" style="width:65%; height:65%;">
 </div>

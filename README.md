@@ -1,6 +1,6 @@
 **Contextualização**
 
-<p>
+<p style="text-align: justify;">
 A área de processamento e análise de imagens digitais teve um desenvolvimento significativo
 nos anos iniciais do século XXI. Este crescimento foi derivado do interesse de pesquisa e
 desenvolvimento de tecnologias pertinentes a áreas como medicina, biologia, automação

@@ -25,8 +25,12 @@ Há diversos operadores para realizar essa tarefa. Um exemplo são os operadores
 
 <div align="center">
   <img src="https://github.com/Minnael/TRATAMENTO-DE-IMAGENS/assets/31865359/1597b857-e6b0-4b62-8e75-659875551803" alt="Descrição da Imagem">
+</div>
+
+<div align="center">
   <img src="https://github.com/Minnael/TRATAMENTO-DE-IMAGENS/assets/31865359/d843ddd1-62b5-4bb9-be62-479874cf45fa" alt="Descrição da Imagem">
 </div>
+
 
 onde Gx[][] e Gy[][] são as máscaras para detecção de bordas nas direções x e y da
 imagem digital. A imagem final segmentada é dada pela junção das imagens das duas bordas

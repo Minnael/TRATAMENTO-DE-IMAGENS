@@ -15,11 +15,12 @@ completo. Dentre elas, destaca-se a segmentação, que realiza a extração e id
 (bordas) ou similaridades (regiões) na imagem processada.
 A tarefa de detecção de bordas consiste em determinar o limite, ou fronteira, entre duas regiões
 com propriedades e características distintas das intensidades dos pixels da imagem.
-
 Considerando que a imagem consiste em um array M por N, no qual podem-se definir as
 direções x e y, a detecção de bordas poderá ser obtida através de uma operação de
 convolução entre uma máscara (que configura-se como um operador) que é aplicado sobre um
-pixel de interesse da imagem e também em seus pixels vizinhos. Há diversos operadores para
+pixel de interesse da imagem e também em seus pixels vizinhos. 
+
+Há diversos operadores para
 realizar essa tarefa. Um exemplo são os operadores de Prewitt, dados pelas matrizes a seguir:
 Gx[3][3] = { {-1 ,0, 1}
 {-1, 0, 1}

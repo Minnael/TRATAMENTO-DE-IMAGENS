@@ -26,7 +26,7 @@ pixel de interesse da imagem e também em seus pixels vizinhos. Há diversos ope
 </div>
 
 <div align="center" width=30%>
-  <img src="https://github.com/Minnael/TRATAMENTO-DE-IMAGENS/assets/31865359/d843ddd1-62b5-4bb9-be62-479874cf45fa" alt="Descrição da Imagem">
+  <img src="https://github.com/Minnael/TRATAMENTO-DE-IMAGENS/assets/31865359/d843ddd1-62b5-4bb9-be62-479874cf45fa" alt="Descrição da Imagem" style="width:75%; height:75%;">
 </div>
 
 
@@ -67,7 +67,7 @@ Rx e Ry para gerar a matriz com as informações das bordas (matriz R). Esse res
 deve ser salvo como uma imagem.
 
 <div align="center">
-  <img src="https://github.com/Minnael/TRATAMENTO-DE-IMAGENS/assets/31865359/def19e47-4485-497b-9775-bd18a8b92ca4" style="width:75%; height:75%;">
+  <img src="https://github.com/Minnael/TRATAMENTO-DE-IMAGENS/assets/31865359/def19e47-4485-497b-9775-bd18a8b92ca4" style="width:65%; height:65%;">
 </div>
 
 

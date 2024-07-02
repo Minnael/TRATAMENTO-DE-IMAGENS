@@ -66,7 +66,7 @@ Rx e Ry para gerar a matriz com as informações das bordas (matriz R). Esse res
 deve ser salvo como uma imagem.
 
 <div align="center">
-![image](https://github.com/Minnael/TRATAMENTO-DE-IMAGENS/assets/31865359/def19e47-4485-497b-9775-bd18a8b92ca4)
+  <img src="https://github.com/Minnael/TRATAMENTO-DE-IMAGENS/assets/31865359/def19e47-4485-497b-9775-bd18a8b92ca4" alt="Descrição da Imagem">
 </div>
 
 

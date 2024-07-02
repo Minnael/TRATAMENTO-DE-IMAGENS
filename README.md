@@ -19,9 +19,7 @@ com propriedades e características distintas das intensidades dos pixels da ima
 Considerando que a imagem consiste em um array M por N, no qual podem-se definir as
 direções x e y, a detecção de bordas poderá ser obtida através de uma operação de
 convolução entre uma máscara (que configura-se como um operador) que é aplicado sobre um
-pixel de interesse da imagem e também em seus pixels vizinhos. 
-
-Há diversos operadores para realizar essa tarefa. Um exemplo são os operadores de Prewitt, dados pelas matrizes a seguir:
+pixel de interesse da imagem e também em seus pixels vizinhos. Há diversos operadores para realizar essa tarefa. Um exemplo são os operadores de Prewitt, dados pelas matrizes a seguir:
 
 <div align="center">
   <img src="https://github.com/Minnael/TRATAMENTO-DE-IMAGENS/assets/31865359/1597b857-e6b0-4b62-8e75-659875551803" alt="Descrição da Imagem">

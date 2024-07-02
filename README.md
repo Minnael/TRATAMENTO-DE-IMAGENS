@@ -1,5 +1,5 @@
 
-<p style="font-size:35px; text-align:center;">**Contextualização** </p>
+<p style="font-size:75px; text-align:center;">Contextualização</p>
 
 <p style="text-align: justify;">
 A área de processamento e análise de imagens digitais teve um desenvolvimento significativo nos anos iniciais do século XXI. Este crescimento foi derivado do interesse de pesquisa e desenvolvimento de tecnologias pertinentes a áreas como medicina, biologia, automação industrial, sensoriamento remoto, entre outros. O processamento digital de imagens consiste em um conjunto de técnicas para capturar, representar e transformar imagens com o auxílio do computador. Com isso, pode-se extrair e identificar informações das imagens e melhorar a qualidade visual de alguns elementos estruturais, o que facilita a percepção humana e, também, a interpretação automática por meio de programas computacionais.

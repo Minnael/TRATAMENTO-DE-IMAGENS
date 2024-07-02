@@ -21,19 +21,13 @@ direções x e y, a detecção de bordas poderá ser obtida através de uma oper
 convolução entre uma máscara (que configura-se como um operador) que é aplicado sobre um
 pixel de interesse da imagem e também em seus pixels vizinhos. 
 
-  Há diversos operadores para
-realizar essa tarefa. Um exemplo são os operadores de Prewitt, dados pelas matrizes a seguir:
+Há diversos operadores para realizar essa tarefa. Um exemplo são os operadores de Prewitt, dados pelas matrizes a seguir:
 
-![image](https://github.com/Minnael/TRATAMENTO-DE-IMAGENS/assets/31865359/1597b857-e6b0-4b62-8e75-659875551803)
-![image](https://github.com/Minnael/TRATAMENTO-DE-IMAGENS/assets/31865359/d843ddd1-62b5-4bb9-be62-479874cf45fa)
+<div align="center">
+  <img src="https://github.com/Minnael/TRATAMENTO-DE-IMAGENS/assets/31865359/1597b857-e6b0-4b62-8e75-659875551803" alt="Descrição da Imagem">
+  <img src="https://github.com/Minnael/TRATAMENTO-DE-IMAGENS/assets/31865359/d843ddd1-62b5-4bb9-be62-479874cf45fa" alt="Descrição da Imagem">
+</div>
 
-
-Gx[3][3] = { {-1 ,0, 1}
-{-1, 0, 1}
-{-1, 0, 1} };
-Gy[3][3] = { {-1, -1, -1}
-{ 0, 0, 0}
-{ 1, 1, 1} };
 onde Gx[][] e Gy[][] são as máscaras para detecção de bordas nas direções x e y da
 imagem digital. A imagem final segmentada é dada pela junção das imagens das duas bordas
 obtidas.

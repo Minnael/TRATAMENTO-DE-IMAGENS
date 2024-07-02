@@ -8,12 +8,14 @@ representar e transformar imagens com o auxílio do computador. Com isso, pode-s
 identificar informações das imagens e melhorar a qualidade visual de alguns elementos
 estruturais, o que facilita a percepção humana e, também, a interpretação automática por meio
 de programas computacionais.
+
 Existem várias etapas que são aplicadas a uma imagem para se ter um processamento
 completo. Dentre elas, destaca-se a segmentação, que realiza a extração e identificação de
 áreas de interesse contidas na imagem como, por exemplo, detecção de descontinuidades
 (bordas) ou similaridades (regiões) na imagem processada.
 A tarefa de detecção de bordas consiste em determinar o limite, ou fronteira, entre duas regiões
 com propriedades e características distintas das intensidades dos pixels da imagem.
+
 Considerando que a imagem consiste em um array M por N, no qual podem-se definir as
 direções x e y, a detecção de bordas poderá ser obtida através de uma operação de
 convolução entre uma máscara (que configura-se como um operador) que é aplicado sobre um

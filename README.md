@@ -37,7 +37,7 @@ correspondem aos diferentes níveis de cinza).
 ![image](https://github.com/Minnael/TRATAMENTO-DE-IMAGENS/assets/31865359/0446f64b-79f8-4565-aa07-802ad5439aaf)
 
 
-Problema 01
+<bold>Problema 01</bold>
 Elabore um programa, escrito em C ou C++, em um sistema operacional com suporte a POSIX
 (Linux, por exemplo), de tal modo que possam ser usados os compiladores GCC ou G++, para:
 1. Criar um processo pai que possa fazer a abertura de uma imagem em nível de cinza

@@ -1,4 +1,4 @@
-Contextualização:
+**Contextualização**
 
   A área de processamento e análise de imagens digitais teve um desenvolvimento significativo
 nos anos iniciais do século XXI. Este crescimento foi derivado do interesse de pesquisa e
@@ -38,8 +38,9 @@ imagem I é em nível de cinza. Ou seja, seus pixels têm valores que variam no 
 onde 0 é atribuído ao nível preto e 255 ao nível branco (os valores inteiros intermediários
 correspondem aos diferentes níveis de cinza).
 
+<div align="center">
 ![image](https://github.com/Minnael/TRATAMENTO-DE-IMAGENS/assets/31865359/0446f64b-79f8-4565-aa07-802ad5439aaf)
-
+</div>
 
 Problema 01:
 Elabore um programa, escrito em C ou C++, em um sistema operacional com suporte a POSIX
@@ -64,6 +65,9 @@ em estado de espera até que este novo filho finalize sua tarefa.
 Rx e Ry para gerar a matriz com as informações das bordas (matriz R). Esse resultado
 deve ser salvo como uma imagem.
 
+<div align="center">
 ![image](https://github.com/Minnael/TRATAMENTO-DE-IMAGENS/assets/31865359/def19e47-4485-497b-9775-bd18a8b92ca4)
+</div>
+
 
 

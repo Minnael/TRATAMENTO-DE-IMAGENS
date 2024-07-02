@@ -39,7 +39,7 @@ onde 0 é atribuído ao nível preto e 255 ao nível branco (os valores inteiros
 correspondem aos diferentes níveis de cinza).
 
 <div align="center">
-  ![image](https://github.com/Minnael/TRATAMENTO-DE-IMAGENS/assets/31865359/0446f64b-79f8-4565-aa07-802ad5439aaf)
+  <img src="[https://github.com/Minnael/TRATAMENTO-DE-IMAGENS/assets/31865359/def19e47-4485-497b-9775-bd18a8b92ca4](https://github.com/Minnael/TRATAMENTO-DE-IMAGENS/assets/31865359/0446f64b-79f8-4565-aa07-802ad5439aaf)" alt="Descrição da Imagem">
 </div>
 
 Problema 01:

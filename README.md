@@ -26,7 +26,7 @@ pixel de interesse da imagem e também em seus pixels vizinhos. Há diversos ope
 </div>
 
 <div align="center" width=30%>
-  <img src="https://github.com/Minnael/TRATAMENTO-DE-IMAGENS/assets/31865359/d843ddd1-62b5-4bb9-be62-479874cf45fa" alt="Descrição da Imagem" style="width:75%; height:75%;">
+  <img src="https://github.com/Minnael/TRATAMENTO-DE-IMAGENS/assets/31865359/d843ddd1-62b5-4bb9-be62-479874cf45fa" alt="Descrição da Imagem" >
 </div>
 
 
@@ -40,7 +40,7 @@ onde 0 é atribuído ao nível preto e 255 ao nível branco (os valores inteiros
 correspondem aos diferentes níveis de cinza).
 
 <div align="center">
-  <img src="https://github.com/Minnael/TRATAMENTO-DE-IMAGENS/assets/31865359/0446f64b-79f8-4565-aa07-802ad5439aaf" alt="Descrição da Imagem">
+  <img src="https://github.com/Minnael/TRATAMENTO-DE-IMAGENS/assets/31865359/0446f64b-79f8-4565-aa07-802ad5439aaf" alt="Descrição da Imagem" style="width:75%; height:75%;">
 </div>
 
 Problema 01:
